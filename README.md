@@ -1,7 +1,5 @@
 # Student Information Website
 
-![Project Logo](link/to/your/logo.png) <!-- Add a logo or any relevant image -->
-
 ## Table of Contents
 
 - [About the Project](#about-the-project)
