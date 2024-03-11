@@ -9,10 +9,6 @@
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 
